@@ -1,2 +1,10 @@
-# CodeAlpha_EDA
-This task is part of a larger Data Analytics project. The full pipeline, including data cleaning and visualization, can be found in my main portfolio repository at : https://github.com/Demon-king227/DataAnalytics_CA.git
+# Task 2: Exploratory Data Analysis
+This project performs an in-depth exploration and cleaning of the scraped dataset.
+
+## Objective
+To clean, organize, and validate the dataset by handling anomalies and exploring data structures.
+
+## Key Actions
+- **Data Inspection**: Used `df.info()` and `df.head()` to understand variable types.
+- **Data Cleaning**: Detected and removed duplicate headlines to ensure accuracy.
+- **Hypothesis Testing**: Conducted word frequency analysis to identify dominant topics.
